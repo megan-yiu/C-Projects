@@ -1,0 +1,70 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-1 (Conversions)\Conversions\obj\Debug\Conversions.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-1 (Conversions)\Conversions\obj\Debug\Conversions.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-1 (Conversions)\Conversions\bin\Debug\Conversions.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-1 (Conversions)\Conversions\bin\Debug\Conversions.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-1 (Conversions)\Conversions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-1 (Conversions)\Conversions\obj\Debug\Conversions.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-1 (Conversions)\Conversions\obj\Debug\Conversions.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 10-1 (Conversions)\Conversions\obj\Debug\Conversions.csproj.GenerateResource.Cache
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-1 (Conversions)\Conversions\obj\Debug\Conversions.exe
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-1 (Conversions)\Conversions\obj\Debug\Conversions.pdb
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-1 (Conversions)\Conversions\bin\Debug\Conversions.exe
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-1 (Conversions)\Conversions\bin\Debug\Conversions.pdb
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-1 (Conversions)\Conversions\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-1 (Conversions)\Conversions\obj\Debug\Conversions.Form1.resources
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-1 (Conversions)\Conversions\obj\Debug\Conversions.Properties.Resources.resources
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-1 (Conversions)\Conversions\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Instructors\Project solutions\Project 10-1 (Conversions)\Conversions\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\Length Conversions\Conversions\obj\Debug\Conversions.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\Length Conversions\Conversions\obj\Debug\Conversions.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\Length Conversions\Conversions\bin\Debug\Conversions.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\Length Conversions\Conversions\bin\Debug\Conversions.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\Length Conversions\Conversions\bin\Debug\Conversions.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\Length Conversions\Conversions\obj\Debug\Conversions.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\Length Conversions\Conversions\obj\Debug\Conversions.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\Length Conversions\Conversions\obj\Debug\Conversions.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 10\Length Conversions\Conversions\obj\Debug\Conversions.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\bin\Debug\Conversions.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\bin\Debug\Conversions.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\bin\Debug\Conversions.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\bin\Debug\Conversions.exe.config
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\bin\Debug\Conversions.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\bin\Debug\Conversions.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.csprojResolveAssemblyReference.cache
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.Form1.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.csproj.GenerateResource.Cache
+L:\Murach's C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 10\LengthConversions\Conversions\bin\Debug\Conversions.exe.config
+L:\Murach's C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.exe
+L:\Murach's C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercises\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.pdb
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 10\LengthConversions\Conversions\bin\Debug\Conversions.exe.config
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.exe
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 10\LengthConversions\Conversions\obj\Debug\Conversions.pdb
+C:\Users\myiu\OneDrive\Proj 3\LengthConversions\Conversions\obj\Debug\Conversions.csprojResolveAssemblyReference.cache
+C:\Users\myiu\OneDrive\Proj 3\LengthConversions\Conversions\obj\Debug\Conversions.Form1.resources
+C:\Users\myiu\OneDrive\Proj 3\LengthConversions\Conversions\obj\Debug\Conversions.Properties.Resources.resources
+C:\Users\myiu\OneDrive\Proj 3\LengthConversions\Conversions\obj\Debug\Conversions.csproj.GenerateResource.Cache
+C:\Users\myiu\OneDrive\Proj 3\LengthConversions\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\myiu\OneDrive\Proj 3\LengthConversions\Conversions\obj\Debug\Conversions.exe
+C:\Users\myiu\OneDrive\Proj 3\LengthConversions\Conversions\obj\Debug\Conversions.pdb
+C:\Users\myiu\OneDrive\Proj 3\LengthConversions\Conversions\bin\Debug\Conversions.exe.config
+C:\Users\myiu\OneDrive\Proj 3\LengthConversions\Conversions\bin\Debug\Conversions.exe
+C:\Users\myiu\OneDrive\Proj 3\LengthConversions\Conversions\bin\Debug\Conversions.pdb
+C:\Users\myiu\OneDrive\THEO\ITSE\ITSE_1330_M_Y_Project3\Conversions\bin\Debug\Conversions.exe.config
+C:\Users\myiu\OneDrive\THEO\ITSE\ITSE_1330_M_Y_Project3\Conversions\bin\Debug\Conversions.exe
+C:\Users\myiu\OneDrive\THEO\ITSE\ITSE_1330_M_Y_Project3\Conversions\bin\Debug\Conversions.pdb
+C:\Users\myiu\OneDrive\THEO\ITSE\ITSE_1330_M_Y_Project3\Conversions\obj\Debug\Conversions.csprojAssemblyReference.cache
+C:\Users\myiu\OneDrive\THEO\ITSE\ITSE_1330_M_Y_Project3\Conversions\obj\Debug\Conversions.Form1.resources
+C:\Users\myiu\OneDrive\THEO\ITSE\ITSE_1330_M_Y_Project3\Conversions\obj\Debug\Conversions.Properties.Resources.resources
+C:\Users\myiu\OneDrive\THEO\ITSE\ITSE_1330_M_Y_Project3\Conversions\obj\Debug\Conversions.csproj.GenerateResource.cache
+C:\Users\myiu\OneDrive\THEO\ITSE\ITSE_1330_M_Y_Project3\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\myiu\OneDrive\THEO\ITSE\ITSE_1330_M_Y_Project3\Conversions\obj\Debug\Conversions.exe
+C:\Users\myiu\OneDrive\THEO\ITSE\ITSE_1330_M_Y_Project3\Conversions\obj\Debug\Conversions.pdb
