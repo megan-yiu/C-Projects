@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+    <Item>
+        <ItemNo>3245649</ItemNo>
+        <Description>Agaparthus</Description>
+        <Price>7.95</Price>
+    </Item>
+    <Item>
+        <ItemNo>3762592</ItemNo>
+        <Description>Limonium</Description>
+        <Price>6.95</Price>
+    </Item>
+    <Item>
+        <ItemNo>4738459</ItemNo>
+        <Description>Japanese Red Maple</Description>
+        <Price>89.95</Price>
+    </Item>
+    <Item>
+        <ItemNo>4237589</ItemNo>
+        <Description>Crepe Myrtle</Description>
+        <Price>79.95</Price>
+    </Item>
+</Items>
